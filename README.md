@@ -2,6 +2,9 @@
 
 **Author:** Shubhashish Mukherji  
 **Registration Number:** 26BEE0082
+## Project Report
+
+[View the Project Report on Google Docs](https://docs.google.com/document/d/1o9WEIm5Jr8YB-61Mg5aeEwLmq-Wff46Y3BhwePcsfmU/edit?usp=sharing)
 
 ## Overview
 This project uses an Arduino Uno to operate a buzzer while a push button is held down. The buzzer stops when the button is released.
